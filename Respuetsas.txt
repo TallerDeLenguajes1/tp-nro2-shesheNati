@@ -1,0 +1,2 @@
+Rta1: No puedo ver el archivo tp2_1_2.cpp
+Rta2: Esa version del proyecto quedo en el branch Opcion_2 y ahora me encuentro en el branch master

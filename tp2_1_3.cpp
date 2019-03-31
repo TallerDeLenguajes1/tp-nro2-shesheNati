@@ -33,11 +33,9 @@ int main()
 			vectorDin[f] = cont;
 		}
 		
-		
-		
-		
 	for(int i =0; i < 15; i++){
 		printf("\nFila %d: pares %d",i+1 ,vectorDin[i]);
 		}
+	free(vectorDin);
 	return 0;
 }
